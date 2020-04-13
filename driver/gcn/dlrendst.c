@@ -1,6 +1,6 @@
 /***************************************************************************
  *                                                                         *
- * Module  : D3D8rendst.c                                                    *
+ * Module  : dlrendst.c                                                    *
  *                                                                         *
  * Purpose : Renderstates.                                                 *
  *                                                                         *

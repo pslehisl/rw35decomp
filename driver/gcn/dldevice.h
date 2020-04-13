@@ -1,13 +1,13 @@
 /***************************************************************************
  *                                                                         *
- * Module  : d3d8device.h                                                    *
+ * Module  : dldevice.h                                                    *
  *                                                                         *
- * Purpose : d3d8 device header                                            *
+ * Purpose : dolphin device header                                         *
  *                                                                         *
  **************************************************************************/
 
-#ifndef D3D8DEVICE_H
-#define D3D8DEVICE_H
+#ifndef DLDEVICE_H
+#define DLDEVICE_H
 
 /****************************************************************************
  Includes
@@ -33,4 +33,4 @@ extern RwInt32 _RwDlHalfHeight;
  Function prototypes
  */
 
-#endif /* D3D8DEVICE_H */
+#endif /* DLDEVICE_H */
