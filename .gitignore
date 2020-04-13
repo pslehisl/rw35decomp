@@ -1,0 +1,17 @@
+# ELF files
+*.elf
+
+# IDA Pro
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+
+# CodeWarrior
+*_Data/
+*.MAP
+
+# VS Code
+.vscode/
